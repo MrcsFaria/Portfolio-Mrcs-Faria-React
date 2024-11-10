@@ -1,0 +1,43 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {colors: {
+      neonGreen: '#33FF00',
+      darkGreen: '#03300b',
+      darkerGreen: '#112915',
+    },
+    fontFamily: {
+      ruso: ['"Russo One"', 'sans-serif'],
+    },
+    fontSize: {
+      '17px': '17px',
+      '18px': '18px',
+      '20px': '20px',
+      '22px': '22px',
+      '24px': '24px',
+      '26px': '26px',
+      '28px': '28px',
+      '30px': '30px', 
+      '32px': '32px',
+      '34px': '34px',
+      '36px': '36px',
+      '38px': '38px',
+      '40px': '40px', 
+      '42px': '42px',
+      '44px': '44px',
+      '46px': '46px',
+      '48px': '48px',
+      '50px': '50px',
+      '52px': '52px',
+      '54px': '54px',
+      '56px': '56px',
+      '58px': '58px',
+      '60px': '60px',
+      '62px': '62px',
+      '64px': '64px',
+      '65px': '65px',
+    },},
+  },
+  plugins: [],
+};
