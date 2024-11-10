@@ -18,7 +18,7 @@ function FrameMenu({ isAtivado }: FrameMenuProps) {
         <span className={`${textColor} text-65px font-ruso max-[1450px]:text-52px max-[730px]:text-36px max-[530px]:text-30px max-[495px]:text-24px`}>Marcos Vinicius Faria</span>
         <span className={`${textColor} text-30px font-ruso max-[1450px]:text-24px max-[730px]:text-20px max-[530px]:text-17px`}>Desenvolvedor Full-Stack</span>
         <span className={`${textColor} text-30px font-ruso text-center break-normal max-[1450px]:text-24px max-[730px]:text-20px max-[530px]:text-17px`}>
-          Sou um desenvolvedor full-stack especializado que tem como principal
+          Sou um desenvolvedor full-stack que tem como principal
           paixão transformar ideias em realidade. Tenho vasta experiência no
           desenvolvimento de sistemas utilizando diversas linguagens e
           tecnologias, incluindo Python e VBA, bem como na construção de sites
