@@ -22,7 +22,7 @@ function FrameMenu({ isAtivado }: FrameMenuProps) {
           paixão transformar ideias em realidade. Tenho vasta experiência no
           desenvolvimento de sistemas utilizando diversas linguagens e
           tecnologias, incluindo Python e VBA, bem como na construção de sites
-          dinâmicos e interativos com React e JavaScript.
+          dinâmicos e interativos com React e TypeScript.
           <br />
           Com um forte foco em automação, meu objetivo é simplificar e otimizar
           processos manuais, tornando o trabalho mais fácil e produtivo para
